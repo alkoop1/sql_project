@@ -2,23 +2,23 @@
 
 ## **Содержание**
 
-1. [Описание проекта](https://github.com/alkoop1/sql_project/README.md#Описание-проекта)
-2. [Решаемая задача](https://github.com/alkoop1/sql_project/README.md#Решаемая-задача)
+1. [Описание проекта](https://github.com/alkoop1/sql_project?tab=readme-ov-file/README.md#Описание-проекта)
+2. [Решаемая задача](https://github.com/alkoop1/sql_project?tab=readme-ov-file/README.md#Решаемая-задача)
 
-    2.1 [Условия](https://github.com/alkoop1/sql_project/README.md#Условия)
+    2.1 [Условия](https://github.com/alkoop1/sql_project?tab=readme-ov-file/README.md#Условия)
 
-    2.2 [Навыки](https://github.com/alkoop1/sql_project/README.md#Условия)
+    2.2 [Навыки](https://github.com/alkoop1/sql_project?tab=readme-ov-file/README.md#Условия)
 
-3. [Информация о данных](https://github.com/alkoop1/sql_project/README.md#Информация-о-данных)
-4. [Этапы работы над проектом](https://github.com/alkoop1/sql_project/README.md#Этапы-работы-над-проектом)
-5. [Результаты](https://github.com/alkoop1/sql_project/README.md#Результаты)
-6. [Выводы](https://github.com/alkoop1/sql_project/README.md#Выводы)
+3. [Информация о данных](https://github.com/alkoop1/sql_project?tab=readme-ov-file/README.md#Информация-о-данных)
+4. [Этапы работы над проектом](https://github.com/alkoop1/sql_project?tab=readme-ov-file/README.md#Этапы-работы-над-проектом)
+5. [Результаты](https://github.com/alkoop1/sql_project?tab=readme-ov-file/README.md#Результаты)
+6. [Выводы](https://github.com/alkoop1/sql_project?tab=readme-ov-file/README.md#Выводы)
 
 ### **Описание проекта**
 
 Анализ базы вакансий `HeadHunter` с целью её подготовки для использования в модели машинного обучения, которая будет рекомендовать вакансии клиентам кадрового агентства, претендующим на позицию `Data Scientist`.
 
-[к содержанию](https://github.com/alkoop1/sql_project/README.md#Содержание)
+[к содержанию](https://github.com/alkoop1/sql_project?tab=readme-ov-file/README.md#Содержание)
 
 ### **Решаемая задача**
 
@@ -41,7 +41,7 @@
 - Улучшить навыки использования языка разметки `MarkDown`;
 - Улучшить навыки работы с `IDE VS Code`, `Git`, `GitHub`.
 
-[к содержанию](https://github.com/alkoop1/sql_project/README.md#Содержание)
+[к содержанию](https://github.com/alkoop1/sql_project?tab=readme-ov-file/README.md#Содержание)
 
 ### **Информация о данных**
 
@@ -54,7 +54,7 @@
   - `industries` - справочник вариантов сфер деятельности работодателей,  
   - `employers_industries` - дополнительная таблица для организации связи между работодателями и сферами их деятельности, поскольку у одного работодателя может быть несколько сфер деятельности (или работодатели могут вовсе не указать их).
   
-[к содержанию](https://github.com/alkoop1/sql_project/README.md#Содержание)
+[к содержанию](https://github.com/alkoop1/sql_project?tab=readme-ov-file/README.md#Содержание)
 
 ### **Этапы работы над проектом**
 
@@ -66,7 +66,7 @@
 - Дополнительный (собственный) анализ.  
 - Оформление проекта и загрузка на `GitHub`.
 
-[к содержанию](https://github.com/alkoop1/sql_project/README.md#Содержание)
+[к содержанию](https://github.com/alkoop1/sql_project?tab=readme-ov-file/README.md#Содержание)
 
 ### **Результаты**
 
@@ -75,7 +75,7 @@
 - Сформулированы общие выводы по проекту, выявлены тенденции, сделаны прогнозы;  
 - Сделан упор на `SQL`-запросы с целью наиболее понятного представления данных для ответа на поставленные вопросы. 
 
-[к содержанию](https://github.com/alkoop1/sql_project/README.md#Содержание)
+[к содержанию](https://github.com/alkoop1/sql_project?tab=readme-ov-file/README.md#Содержание)
 
 ### **Выводы**
 
